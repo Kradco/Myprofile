@@ -4,7 +4,7 @@
 <body>
 
 <h1>My Profile</h1>
-<img src="mypic.jpg"alt="mypicture"width="500" height="333">
+<img src="mypic.jpg"alt="mypicture"width="400" height="200">
 <p>My name is Alan, and I live in Wollongong, NSW, which is around a 1.5-hour drive from Sydney.India is my country of origin. I was born and raised in that country for 15 years before moving to Australia in 2015. Snowboarding is one of my favorite hobbies. Every year, I would go to the snow since it is something I look forwards to. Because of covid, I believe there wasn't much this and last year. Gaming is one of other my pastimes, and I have two cats named Suchu and Snow.</p>
 
 <p>The technology around me, such as smartphones and PCs, piqued my interest in IT. I've always loved computers and built my first gaming computer in eighth grade because I'm a gamer. The RMIT seemed like a good option because it's known for IT courses and practical learning, even though it's entirely online. I am now pursuing a bachelor's degree in information technology to immerse myself in fundamental and advanced IT knowledge that will aid me in my future IT career choices. .</p>
