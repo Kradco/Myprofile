@@ -1,5 +1,5 @@
 # Assignment 1
- <!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <body>
 
